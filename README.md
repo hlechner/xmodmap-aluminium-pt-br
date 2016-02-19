@@ -18,3 +18,7 @@ Created by **Henrique Lechner**
 - Install xmodmap
 - Copy the `.Xmodmap` to your home folder
 - Restart your session or just run the command: `xmodmap ~/.Xmodmap`
+
+--
+
+![image](https://raw.githubusercontent.com/hlechner/xmodmap-aluminium-pt-br/master/keyboard.png)
