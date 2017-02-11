@@ -16,7 +16,7 @@ Created by **Henrique Lechner**
 ### Install:
 - Use `English (Macintosh)` as keyboard layout
 - Install xmodmap
-- Copy the `.Xmodmap` to your home folder
+- Copy the [.Xmodmap](https://github.com/hlechner/xmodmap-aluminium-pt-br/blob/master/.Xmodmap) file to your home folder
 - Restart your session or just run the command: `xmodmap ~/.Xmodmap`
 
 --
